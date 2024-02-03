@@ -4,6 +4,15 @@ You can find me on [serverfault.com](https://serverfault.com/users/23022/alexd) 
 
 [![profile for AlexD on Stack Exchange, a network of free, community-driven Q&A sites](https://stackexchange.com/users/flair/34093.png)](https://stackexchange.com/users/34093)
 
+
+Tech stack:
+
+- AWS, Kubernetes, Nomad, Docker, podman, Hashicorp Consul, Vault, Packer
+- Terraform, Ansible, Chef, Puppet
+- Grafana, Loki, Prometheus, ELK stack
+- Jenkins, GitHub Actions, Flux, GitLab
+- Ruby, Python, bash, C
+
 Most of the public repos here are forks of Chef cookbooks and some ruby gems.
 
 There are some examples of my own code that I can publish:
