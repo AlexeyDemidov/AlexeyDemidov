@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/alekseydemidov/)
+You can contact me on [LinkedIn](https://www.linkedin.com/in/alekseydemidov/)
 
 You can find me on [serverfault.com](https://serverfault.com/users/23022/alexd) and [other stackexchange  sites](https://stackexchange.com/users/34093/alexd).
 
