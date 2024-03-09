@@ -11,7 +11,7 @@ Tech stack:
 - Terraform, Ansible, Chef, Puppet
 - Grafana, Loki, Prometheus, ELK stack
 - Jenkins, GitHub Actions, Flux, GitLab
-- Ruby, Python, bash, C
+- Ruby, Python, bash.
 
 Most of the public repos here are forks of Chef cookbooks and some ruby gems.
 
