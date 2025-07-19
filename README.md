@@ -17,6 +17,8 @@ Most of the public repos here are forks of Chef cookbooks and some ruby gems.
 
 There are some examples of my own code that I can publish:
 
+* [A Python code](https://github.com/AlexeyDemidov/crowdsec-allowlist) - a script to import a YAML whitelist into CrowdSec MySQL/MariaDB allowlist
+
 * [An Ansible role](https://github.com/AlexeyDemidov/lamp-ansible-role) - an Ansible role to install a simple package with Molecule tests
 
 * [BigDoor REST API ruby client library](https://github.com/AlexeyDemidov/bigdoorkit-ruby) - clean code still showing A score on codeclimate.com
